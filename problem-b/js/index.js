@@ -134,7 +134,7 @@ function compoundInterest(principal, rate, years) {
    cards with the same _rank_) in the array.
    Double challenge: return the rank of the pair of cards with the highest rank 
    (e.g., if the hand contains more than one pair!) */
-
+  
 
 //Make functions and variables available to tester. DO NOT MODIFY THIS.
 if(typeof module !== 'undefined' && module.exports){
